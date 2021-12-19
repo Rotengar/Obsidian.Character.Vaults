@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "d0ba598068737b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f25470f360b92f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0. Character/READ ME.md",
+            "mode": "source"
+          }
+        },
+        "group": "775662230b3b8593"
+      },
+      {
+        "id": "d35747c81076e5c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0. Character/READ ME.md",
+            "mode": "preview"
+          }
+        },
+        "group": "775662230b3b8593"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75f34bbeec3b7b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c29f0fb80108f2c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa9d9924f29a8a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cebb031cbb0f8f4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "babb5f132d8c24c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d090c3c94ab1b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f539c0890ef8857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Character/READ ME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de48bb4eb1a6da17",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4f25470f360b92f",
+  "lastOpenFiles": [
+    "0. Character/READ ME.md",
+    "0. Character/Magic.md",
+    "0. Character/Inventory.md",
+    "0. Character/Combat.md",
+    "0. Character/Character Sheet.md",
+    "0. Character/Class Abilities.md",
+    "0. Character/Backstory.md",
+    "0. Character/OGL-SRD5-0.4.3/changelog.md",
+    "0. Character/OGL-SRD5-0.4.3/legal.md",
+    "0. Character/OGL-SRD5-0.4.3/RE&.logo.png"
+  ]
+}

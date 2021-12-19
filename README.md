@@ -21,7 +21,10 @@ Right now I have been asked to do a few more vaults but if people have an intere
 
 Requested so far:
 - [x] D&D 5e
-- [ ] Pathfinder1e
+- [ ] Pathfinder 1e
 - [ ] Pathfinder 2e
+- [ ] Savage Worlds
+- [ ] Deadlands (Savage Worlds)
+- [ ] RIFTS (Savage Worlds)
 - [ ] Genesys Core
 - [ ] Starwars (Genesys System)

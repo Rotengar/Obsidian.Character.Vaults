@@ -11,8 +11,9 @@ These vaults are designed to be 'drop in' and go as is, or users can edit them t
 2. Create an empty vault
 3. Settings > Community Plugins > Toggle 'Safe mode' off, close settings.
 4. Uncompress the .zip file downloaded from here dropping the contents directly into the root folder of the vault, the notes will load.
-5. Verify that the community plugins are active.
-6. Have fun!
+5. Add a . to the front of the obsidian folder.
+6. Verify that the community plugins are active.
+7. Have fun!
 
 ---
 
